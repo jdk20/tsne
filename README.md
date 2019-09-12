@@ -1,0 +1,1 @@
+Implementation of t-Distributed Stochastic Neighbor Embedding in PyTorch. This version uses the same parameters values and dataset as in van der Maaten 2008 for example purposes, but relies on the PyTorch autograd function to learn the lower-dimensional map points y.
